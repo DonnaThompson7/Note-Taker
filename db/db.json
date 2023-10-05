@@ -1,12 +1,32 @@
 [
     {
-        "title": "Donna Note 1",
-        "text": "donna 1, detail line 1\ndonna 1, detail line 2",
-        "note_id": "202dbebd-06e4-4272-aec8-d89980bbb3e1"
+        "title": "Call bank on Monday",
+        "text": "Call the bank and open new account.",
+        "note_id": "3181da57-f30b-4241-894c-9a6e135c8fb5"
     },
     {
-        "title": "Donna Note 2",
-        "text": "donna 2, detail line 1\ndonna 2, detail line 2\ndonna 2, detail line 3",
-        "note_id": "6f0ebbbf-9f55-44b3-aa88-51b40f1c1add"
+        "title": "Update website",
+        "text": "Update website with new products and prices.",
+        "note_id": "8489cf82-a64e-45ca-b393-f77eda6f7335"
+    },
+    {
+        "title": "Check in with clients",
+        "text": "Call new clients. Check in with existing clients. Let them know about new products.",
+        "note_id": "87ed52f3-c32e-4c96-82d6-8876d79a323e"
+    },
+    {
+        "title": "Reschedule delivery",
+        "text": "Call UPS and reschedule Friday's delivery to Tuesday, due to holiday.",
+        "note_id": "6beb888c-f3e3-4176-9cfb-4847e98222fc"
+    },
+    {
+        "title": "Pay 2QTR taxes",
+        "text": "Meet with accountant to finalize taxes for 2nd quarter",
+        "note_id": "8471bd12-807a-4793-9f5a-5a10837beb10"
+    },
+    {
+        "title": "Finish payroll",
+        "text": "Finish payroll by Wednesday night and submit.",
+        "note_id": "d8ff10d1-a4a5-488a-899a-89d49394abbe"
     }
 ]
