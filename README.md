@@ -16,16 +16,22 @@
   * [GitHub Repository](#github-repository)
   * [Questions](#questions)
 
-  
+<br />
+
   ## **Installation**
   To download the source code for this app, clone the [Note Taker App GitHub repo](https://github.com/DonnaThompson7/Note-Taker), then run `npm install`. To start the app, run `npm start`.
 
+<br />
+
   ## **Screenshot of app**
  ![Screenshot of Note Taker app](./public/assets/images/Note_Taker_screenshot.png)
-  
+
+<br />
 
   ## **Link to deployed app via Heroku**
- [Link to deployed app](https://morning-sierra-83538-7272b75177cb.herokuapp.com/)
+ [Link to deployed app](https://immense-tor-86713-264407404cfc.herokuapp.com/)
+
+<br />
  
   ## **Usage**
 
@@ -54,19 +60,29 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
+<br />
+
   ## **Credits**
   Donna Thompson, developer
 
   Starter code: UNCC-VIRT-FSF-PT-04-2023-U-LOLC, Module 11 Express, Challenge
 
+<br />
+
   ## **Contribute**
   If you would like to contribute to this app, please submit contributions to the email below.
+
+<br />
 
   ## **License**
 Licensed under [The ISC License](https://opensource.org/licenses/ISC).
 
+<br />
+
   ## **GitHub Repository** 
   [github.com/DonnaThompson7/Note-Taker](https://github.com/DonnaThompson7/Note-Taker)
+
+<br />
 
   ## **Questions**
   Please visit my GitHub profile at https://github.com/DonnaThompson7 <br /> Contact me at dlthompson7@icloud.com to report issues, contribute, or if you have additional questions.
